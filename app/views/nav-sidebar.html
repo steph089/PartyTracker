@@ -1,0 +1,59 @@
+<div class="sidebar-wrapper">
+  <div class="sidebar-nav-wrapper mg-top-10">
+    <div class="user-container dropdown" ng-class="{ open: showProfileDropdown }">
+      <a class="dropdown-toggle" ng-click="showProfileDropdown = !showProfileDropdown" click-anywhere-but-here="showProfileDropdown = false">
+        <div class="pull-left image">
+          <img ng-show="!CurrentUser.AvatarUrl" src="images/generic-user.jpg" class="img-thumbnail avatar bg-light-green" alt="user profile image">
+          <img ng-show="CurrentUser.AvatarUrl" ng-src="{{ CurrentUser.AvatarUrl }}" class="img-thumbnail avatar bg-light-green" alt="user profile image">
+        </div>
+        <div class="pull-left info">
+          <h4 class="name">{{ CurrentUser.FirstName + ' ' + CurrentUser.LastName }}</h4>
+          <h6 class="text-muted extra">{{ CurrentUser.Company.Description }}</h6>
+        </div>
+      </a>
+      <ul class="dropdown-menu" role="menu" ng-click="showProfileDropdown = !showProfileDropdown">
+        <li><a ui-sref="home.people.view({ id: CurrentUser.Id })"><i class="fa fa-user fa-fw icon"></i>Profile</a></li>
+        <li><a ui-sref="home.settings"><i class="fa fa-cog fa-fw icon"></i>Settings</a></li>
+        <li><a ui-sref="home.companies.view({ id: CurrentUser.Company.Id })"><i class="fa fa-building fa-fw icon"></i>My Company</a></li>
+        <li class="divider"></li>
+        <li><a href="lock-screen.html"><i class="fa fa-lock fa-fw icon"></i>Lock Account</a></li>
+        <li><a ng-click="logout()"><i class="fa fa-sign-out fa-fw icon"></i>Sign Out</a></li>
+      </ul>
+    </div>
+    <div class="search-form-container hidden-xs">
+      <form class="search-form" role="search">
+        <input ng-model="globalSearch" ng-keypress="searchKeyPressed($event)" placeholder="Search...">
+        <button ui-sref="home.jobs.list({ search: globalSearch })"><i class="fa fa-search"></i></button>
+      </form>
+    </div>
+    <ul class="sidebar-nav">
+      <li class="border-left-light-green">
+        <a ui-sref="home.Main" title="Main">
+          <i class="menu-icon fa fa-lg fa-fw fa-user"></i> <span>Main</span>
+        </a>
+      </li>
+    </ul>
+    <ul class="sidebar-nav">
+      <li class="border-left-light-orange">
+        <a ui-sref="home.Battle" title="Battle">
+          <i class="menu-icon fa fa-2x fa-shield"></i> <span>Battle</span>
+        </a>
+      </li>
+    </ul>
+    <ul class="sidebar-nav">
+      <li class="border-left-red">
+        <a ui-sref="home.Items" title="Items">
+          <i class="menu-icon fa fa-2x fa-beer"></i> <span>Items</span>
+        </a>
+      </li>
+    </ul>
+    <ul class="sidebar-nav">
+      <li class="border-left-light-blue">
+        <a ui-sref="home.Documents" title="Documents">
+          <i class="menu-icon fa fa-2x fa-file"></i> <span>Documents</span>
+        </a>
+      </li>
+    </ul>
+
+  </div>
+</div>

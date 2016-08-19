@@ -1,0 +1,89 @@
+<div class="header-fixed skin-green">
+<header>
+
+  <!-- Product Logo -->
+  <a ui-sref="login" class="logo hidden-xs">
+    <img class="header-logo" src="images/partytracker.png" />
+  </a>
+  <!-- End Product Logo -->
+
+  <!-- Header Navigation -->
+  <nav class="navbar-main" role="navigation">
+
+  <!-- Left Button Container -->
+    <ul class="button-container pull-left">
+      <li class="item">
+      <!-- Left Sidebar Toggle Button -->
+        <!-- <a id="sidebarLeftToggle" class="nav-button" data-toggle="collapse" data-target=".sidebarLeft"> -->
+        <a class="nav-button" ng-click="navigationOpen = !navigationOpen">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="fa fa-bars"></span>
+        </a>
+      </li>
+
+    </ul>
+    <!-- End Left Button Container -->
+
+    <!-- Navbar Content Center -->
+    <div class="nav-content">
+      <!-- Page Title -->
+      <h3 class="page-title">{{ Title }}</h3>
+      <!-- End Page Title -->
+    </div>
+    <!-- End Navbar Content Center -->
+
+    <!-- Right Button Container -->
+    <ul class="button-container pull-right">
+      <li class="item">
+      <!-- Right Sidebar Toggle Button -->
+        <!-- <a id="sidebarRightToggle" class="nav-button" data-toggle="collapse" data-target=".sidebarRight"> -->
+        <a class="nav-button" ng-click="helpOpen = !helpOpen">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="fa fa-question fa-lg"></span>
+        </a>
+      <!-- End Right Sidebar Toggle Button -->
+      </li>
+
+      <li class="item dropdown collapse sidebarRight chat-search hidden-xs" ng-class="{in: helpOpen }">
+      <!-- Chat List Search Form -->
+        <h3>Help</h3>
+      <!-- End Chat List Search Form -->
+      </li>
+
+    </ul>
+    <!-- End Right Button Container -->
+
+  </nav>
+  <!-- End Header Navigation -->
+
+</header>
+
+<aside class="sidebar sidebar-left collapse navbar-collapse sidebarLeft" ng-class=" { in: !navigationOpen }" ng-include="'nav-sidebar.html'"></aside>
+<aside class="sidebar sidebar-right collapse navbar-collapse sidebarRight" click-anywhere-but-here="closeHelp()" ng-class="{in: !helpOpen }" ng-include="'help-sidebar.html'"></aside>
+
+<aside class="content-wrapper sidebarLeft collapse" ng-class=" { in: !navigationOpen }">
+    <div class="content container-fluid sidebarRight animated fadeInUp">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="">
+            <div class="panel-body content-title-container">
+               <div class="loading-bar-here"></div>
+               <div class="row">
+                  <div class="col-md-12">
+                    <ui-breadcrumbs displayname-property="title" template-url="partials/breadcrumbs.html" abstract-proxy-property="breadcrumbProxy">
+                    </ui-breadcrumbs>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="ui-view-container">
+                    <div growl></div>
+                    <div class="home-view" ui-view autoscroll="false"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+  </div>
+</aside>
+</div>

@@ -1,0 +1,1445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fillOut",
+				"fillOutCloned"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"click",
+				"clickAnywhereButHereService"
+			],
+			[
+				"gets",
+				"getSelectedTaskIds"
+			],
+			[
+				"sel",
+				"selectedJobs"
+			],
+			[
+				"view",
+				"viewTypeToAssignmentType"
+			],
+			[
+				"sele",
+				"selectedJobs"
+			],
+			[
+				"show",
+				"showBulkDialog"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"FormTemp",
+				"FormTemplatesService"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"form",
+				"formTemplate"
+			],
+			[
+				"load",
+				"loadNotes"
+			],
+			[
+				"edit",
+				"editingTemplate"
+			],
+			[
+				"Visib",
+				"Visible"
+			],
+			[
+				"Vis",
+				"VisibleInd"
+			],
+			[
+				"first",
+				"firstSort"
+			],
+			[
+				"fei",
+				"fields"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"create",
+				"createdTodayFilter"
+			],
+			[
+				"Fac",
+				"FacetsService"
+			],
+			[
+				"Encod",
+				"ToEncoded"
+			],
+			[
+				"compl",
+				"completedTodayFilter"
+			],
+			[
+				"due",
+				"dueTodayFilter"
+			],
+			[
+				"comp",
+				"completedTodayFilter"
+			],
+			[
+				"get",
+				"getStats"
+			],
+			[
+				"today",
+				"todaySnapshot"
+			],
+			[
+				"Facet",
+				"FacetByDisplay"
+			],
+			[
+				"du",
+				"dueCompleted"
+			],
+			[
+				"nested",
+				"nestedFilters"
+			],
+			[
+				"over",
+				"overDueFilter"
+			],
+			[
+				"integ",
+				"integration"
+			],
+			[
+				"ex",
+				"externalConnection"
+			],
+			[
+				"Create",
+				"CreateExternalConnectionCtrl"
+			],
+			[
+				"in",
+				"integrations"
+			],
+			[
+				"IN",
+				"IntegrationsService"
+			],
+			[
+				"copm",
+				"completedFilter"
+			],
+			[
+				"to",
+				"toDate"
+			],
+			[
+				"pa",
+				"passedFacets"
+			],
+			[
+				"Atta",
+				"AttachmentsService"
+			],
+			[
+				"edi",
+				"editingForm"
+			],
+			[
+				"se",
+				"selectedAttachments"
+			],
+			[
+				"req",
+				"requirements"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"Att",
+				"Attachments"
+			],
+			[
+				"atta",
+				"attachment"
+			],
+			[
+				"select",
+				"selectedRequirement"
+			],
+			[
+				"at",
+				"attachments"
+			],
+			[
+				"a",
+				"Attachments"
+			],
+			[
+				"filt",
+				"filterAttachments"
+			],
+			[
+				"fil",
+				"filterAttachments"
+			],
+			[
+				"page",
+				"pageChanged"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"selecte",
+				"selectedJobs"
+			],
+			[
+				"Tasks",
+				"TasksService"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"Assig",
+				"Assignee"
+			],
+			[
+				"Ass",
+				"AssignedToId"
+			],
+			[
+				"ass",
+				"assigneeType"
+			],
+			[
+				"A",
+				"AssignedToId"
+			],
+			[
+				"Assigne",
+				"AssignedToId"
+			],
+			[
+				"Search",
+				"SearchPeople"
+			],
+			[
+				"pre",
+				"preLoaded"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"vendor",
+				"vendor-bundle"
+			],
+			[
+				"app",
+				"app-bundle"
+			],
+			[
+				"bro",
+				"browserifyShare"
+			],
+			[
+				"re",
+				"requirementsActive"
+			],
+			[
+				"Stat",
+				"StatesService"
+			],
+			[
+				"adding",
+				"addingField"
+			],
+			[
+				"f",
+				"fields"
+			],
+			[
+				"la",
+				"control-label"
+			],
+			[
+				"Indu",
+				"Industry"
+			],
+			[
+				"Industr",
+				"IndustriesService"
+			],
+			[
+				"crea",
+				"creatingIntegration"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"Externa",
+				"ExternalId"
+			],
+			[
+				"tempalte",
+				"templateUrl"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"eit",
+				"editingRoles"
+			],
+			[
+				"Roe",
+				"RolesService"
+			],
+			[
+				"R",
+				"RolesService"
+			],
+			[
+				"unread",
+				"unreadMessages"
+			],
+			[
+				"Mess",
+				"Messages"
+			],
+			[
+				"Service",
+				"ServicesService"
+			],
+			[
+				"mod",
+				"modalInstance"
+			],
+			[
+				"Task",
+				"TaskStatusService"
+			],
+			[
+				"location",
+				"location"
+			],
+			[
+				"St",
+				"StreetAddress"
+			],
+			[
+				"teml",
+				"templateUrl"
+			],
+			[
+				"Pric",
+				"PricingService"
+			],
+			[
+				"require",
+				"requirementsPromise"
+			],
+			[
+				"loc",
+				"locationPromise"
+			],
+			[
+				"Tas",
+				"taskId"
+			],
+			[
+				"conn",
+				"connectionString"
+			],
+			[
+				"Loca",
+				"Locations"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"curr",
+				"currentPage"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"Loc",
+				"loadingLocations"
+			],
+			[
+				"Set",
+				"Settings"
+			],
+			[
+				"Settings",
+				"SettingsCtrl"
+			],
+			[
+				"Pref",
+				"preferences"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"current",
+				"currentUser"
+			],
+			[
+				"Adj",
+				"AdjustedPayment"
+			],
+			[
+				"Adjust",
+				"AdjustedPrice"
+			],
+			[
+				"att",
+				"attachmentId"
+			],
+			[
+				"Require",
+				"Requirements"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"curren",
+				"currentUser"
+			],
+			[
+				"as",
+				"assigneeType"
+			],
+			[
+				"search",
+				"searchSelected"
+			],
+			[
+				"As",
+				"assigneeType"
+			],
+			[
+				"od",
+				"oldValue"
+			],
+			[
+				"Requireme",
+				"RequirementsService"
+			],
+			[
+				"Visi",
+				"VisibleLogic"
+			],
+			[
+				"person",
+				"personId"
+			],
+			[
+				"bow",
+				"bower-install"
+			],
+			[
+				"sino",
+				"sinonChai"
+			],
+			[
+				"Login",
+				"LoginService"
+			],
+			[
+				"br",
+				"browserifyShare"
+			],
+			[
+				"wat",
+				"watch"
+			],
+			[
+				"redi",
+				"redirectTo"
+			],
+			[
+				"Compl",
+				"Completing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/js/Run.js",
+			"settings":
+			{
+				"buffer_size": 1758,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/controllers/LoginCtrl.js",
+			"settings":
+			{
+				"buffer_size": 736,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/Routes.js",
+			"settings":
+			{
+				"buffer_size": 842,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/partials/home.html",
+			"settings":
+			{
+				"buffer_size": 3262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/partials/companies.html",
+			"settings":
+			{
+				"buffer_size": 14,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/controllers/CompaniesCtrl.js",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/controllers/LandingCtrl.js",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/controllers/HomeCtrl.js",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/controllers/index.js",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/partials/landing.html",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2090,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/app.js",
+			"settings":
+			{
+				"buffer_size": 378,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/repos/FieldForwardAdmin",
+		"/C/repos/FieldForwardAdmin/app",
+		"/C/repos/FieldForwardAdmin/app/config",
+		"/C/repos/FieldForwardAdmin/app/js",
+		"/C/repos/FieldForwardAdmin/app/js/controllers",
+		"/C/repos/FieldForwardAdmin/app/js/services",
+		"/C/repos/FieldForwardAdmin/app/partials"
+	],
+	"file_history":
+	[
+		"/C/repos/FieldForwardAdmin/app/partials/companies.html",
+		"/C/repos/FieldForwardAdmin/bower.json",
+		"/C/repos/FieldForwardAdmin/app/index.html",
+		"/C/repos/FieldForwardAdmin/app/js/app.js",
+		"/C/repos/FieldForwardAdmin/app/js/app-bundle.js",
+		"/C/repos/FieldForwardAdmin/app/js/services/LoginService.js",
+		"/C/repos/FieldForwardAdmin/app/js/Run.js",
+		"/C/repos/FieldForwardAdmin/app/js/Routes.js",
+		"/C/repos/FieldForwardAdmin/app/js/controllers/CompaniesCtrl.js",
+		"/C/repos/FieldForwardAdmin/app/js/AuthInterceptor.js",
+		"/C/repos/FieldForwardAdmin/gulpfile.js",
+		"/C/repos/FieldForwardAdmin/package.json",
+		"/C/repos/FieldForwardAdmin/app/js/controllers/index.js",
+		"/C/repos/FieldForwardAdmin/app/js/controllers/LoginCtrl.js",
+		"/C/repos/FieldForwardAdmin/app/js/controllers/HomeCtrl.js",
+		"/C/repos/FieldForwardAdmin/app/js/services/index.js",
+		"/C/repos/SimpleClient/app/js/services/index.js",
+		"/C/repos/SimpleClient/app/partials/paging.html",
+		"/C/repos/SimpleClient/app/js/controllers/Locations/LocationsListCtrl.js",
+		"/C/repos/SimpleClient/app/partials/locations-list.html",
+		"/C/repos/SimpleClient/app/js/services/SearchService.js",
+		"/C/repos/SimpleClient/app/js/controllers/Companies/CompaniesListCtrl.js",
+		"/C/repos/SimpleClient/app/css/style.css",
+		"/C/repos/SimpleClient/app/js/directives/AttachmentList.js",
+		"/C/repos/SimpleClient/app/js/app.js",
+		"/C/repos/SimpleClient/app/index.html",
+		"/C/repos/SimpleClient/app/partials/attachment-list.html",
+		"/C/repos/SimpleClient/app/partials/landing.html",
+		"/C/ProgramData/East Point Systems/FieldCommServer.config",
+		"/C/repos/SimpleClient/app/js/AuthInterceptor.js",
+		"/C/repos/SimpleClient/app/partials/job.html",
+		"/C/repos/SimpleClient/app/partials/companies-list.html",
+		"/C/repos/SimpleClient/app/partials/Help/dashboard.html",
+		"/C/repos/SimpleClient/app/js/services/CompaniesService.js",
+		"/C/repos/SimpleClient/app/js/services/FormService.js",
+		"/C/repos/SimpleClient/app/js/directives/FormsList.js",
+		"/C/repos/SimpleClient/app/partials/forms-list.html",
+		"/C/repos/SimpleClient/bower.json",
+		"/C/repos/SimpleClient/package.json",
+		"/C/repos/SimpleClient/gulpfile.js",
+		"/C/repos/SimpleClient/app/js/controllers/RegistrationCtrl.js",
+		"/C/repos/SimpleClient/app/js/controllers/HomeCtrl.js",
+		"/C/repos/SimpleClient/app/partials/registration.html",
+		"/C/repos/SimpleClient/app/js/controllers/Locations/CreateLocationCtrl.js",
+		"/C/repos/SimpleClient/app/js/Run.js",
+		"/C/repos/SimpleClient/app/partials/create-location.html",
+		"/C/repos/SimpleClient/app/js/directives/SelectionBox.js",
+		"/C/repos/SimpleClient/app/partials/home.html",
+		"/C/repos/SimpleClient/app/partials/busy.html",
+		"/C/repos/SimpleClient/app/partials/bulk-dialog.html",
+		"/C/repos/SimpleClient/app/css/app.css",
+		"/C/repos/SimpleClient/app/partials/help-sidebar.html",
+		"/C/repos/SimpleClient/app/js/Routes.js",
+		"/C/repos/SimpleClient/app/partials/Help/no-help.html",
+		"/C/repos/SimpleClient/app/js/services/ClickAnywhereButHereService.js",
+		"/C/repos/SimpleClient/app/js/directives/index.js",
+		"/C/repos/SimpleClient/app/js/directives/ClickAnywhereButHere.js",
+		"/C/repos/SimpleClient/app/js/controllers/HelpCtrl.js",
+		"/C/repos/SimpleClient/app/js/app-bundle.js",
+		"/C/repos/SimpleClient/app/partials/nav-sidebar.html",
+		"/C/repos/SimpleClient/app/partials/people-list.html",
+		"/C/repos/SimpleClient/app/js/services/PlansService.js",
+		"/C/repos/SimpleClient/app/js/vendor.js",
+		"/C/repos/SimpleClient/app/js/services/JobsService.js",
+		"/C/repos/SimpleClient/app/js/services/BulkService.js",
+		"/C/repos/SimpleClient/app/partials/create-integration.html",
+		"/C/repos/SimpleClient/app/js/controllers/Dialogs/BulkDialogCtrl.js",
+		"/C/repos/SimpleClient/app/partials/bulk-reactivate.html",
+		"/C/repos/SimpleClient/app/partials/bulk-cancel.html",
+		"/C/repos/SimpleClient/app/partials/bulk-assign.html",
+		"/C/repos/SimpleClient/app/partials/task-directive.html",
+		"/C/repos/SimpleClient/app/js/directives/Task.js",
+		"/C/repos/SimpleClient/app/js/directives/JobSearch.js",
+		"/C/repos/SimpleClient/app/partials/job-search.html",
+		"/C/repos/SimpleClient/app/partials/bulk-change-manager.html",
+		"/C/repos/SimpleClient/app/partials/create-job.html",
+		"/C/repos/SimpleClient/app/js/controllers/Attachments/AttachmentLabelCtrl.js",
+		"/C/repos/SimpleClient/app/partials/attachment-label.html",
+		"/C/repos/SimpleClient/app/js/controllers/index.js",
+		"/C/repos/SimpleClient/app/partials/dashboard.html",
+		"/C/repos/SimpleClient/app/js/services/FacetsService.js",
+		"/C/repos/SimpleClient/app/js/controllers/People/PersonCtrl.js",
+		"/C/repos/SimpleClient/app/partials/task.html",
+		"/C/repos/SimpleClient/app/js/controllers/Jobs/JobCtrl.js",
+		"/C/repos/SimpleClient/app/js/services/TasksService.js",
+		"/C/repos/SimpleClient/app/js/controllers/Locations/LocationCtrl.js",
+		"/C/repos/ServiceMotionServer/data/vagrant/bootstrap.sh",
+		"/C/repos/SimpleClient/app/js/services/AuthService.js",
+		"/C/repos/SimpleClient/app/js/controllers/LandingCtrl.js",
+		"/C/repos/SimpleClient/app/js/controllers/InvitationCtrl.js",
+		"/C/repos/SimpleClient/app/partials/invitation.html",
+		"/C/repos/SimpleClient/app/js/controllers/Settings/SettingsCtrl.js",
+		"/C/repos/SimpleClient/app/js/controllers/Settings/SubscriptionCtrl.js",
+		"/C/repos/SimpleClient/app/partials/company.html",
+		"/C/repos/SimpleClient/app/js/controllers/ForgotPasswordCtrl.js",
+		"/C/repos/SimpleClient/app/partials/login.html",
+		"/C/repos/SimpleClient/app/partials/location.html",
+		"/C/repos/SimpleClient/app/js/filters/GuidFilter.js",
+		"/C/repos/SimpleClient/app/js/controllers/Jobs/CreateJobCtrl.js",
+		"/C/repos/SimpleClient/app/js/controllers/Settings/CreateExternalConnectionCtrl.js",
+		"/C/repos/SimpleClient/app/js/services/OpenStreetMapService.js",
+		"/C/repos/SimpleClient/app/partials/license-agreement.html",
+		"/C/repos/SimpleClient/app/js/controllers/LicenseAgreementCtrl.js",
+		"/C/repos/SimpleClient/app/js/controllers/DialogCtrl.js",
+		"/C/repos/SimpleClient/app/js/controllers/Settings/ConnectionsCtrl.js",
+		"/C/Users/jgray/Downloads/fieldforward-demo.azurewebsites.net.PublishSettings",
+		"/C/repos/SimpleClient/app/js/vendor-bundle.js",
+		"/C/repos/SimpleClient/app/partials/assignment-selection-box.html",
+		"/C/repos/SimpleClient/app/js/directives/Requirement.js",
+		"/C/repos/SimpleClient/app/js/directives/RequirementList.js",
+		"/C/repos/SimpleClient/app/partials/requirement.html",
+		"/C/Users/jgray/Downloads/fieldforward.azurewebsites.net.PublishSettings",
+		"/C/repos/SimpleClient/app/partials/pricing.html",
+		"/C/repos/FieldComm/build/default.ps1",
+		"/C/repos/FieldComm/build/build.ps1",
+		"/C/repos/FieldComm/src/packages/Redis-64.2.8.19/redis.conf",
+		"/C/repos/FieldComm/src/packages/RedisIntegration.0.3.0.0/tools/README.md",
+		"/C/repos/SimpleClient/app/js/controllers/Jobs/JobsListCtrl.js",
+		"/C/repos/SimpleClient/app/js/services/TaskStatusService.js",
+		"/C/repos/SimpleClient/app/partials/facets.html",
+		"/C/repos/SimpleClient/app/js/directives/JobsList.js",
+		"/C/repos/SimpleClient/app/partials/jobs-list-directive.html",
+		"/C/repos/SimpleClient/app/partials/form-template-selection-box.html",
+		"/C/repos/SimpleClient/app/js/directives/TaskList.js",
+		"/C/repos/SimpleClient/app/partials/accounting-summary.html",
+		"/C/repos/SimpleClient/app/js/controllers/DashboardCtrl.js",
+		"/C/repos/SimpleClient/app/js/directives/Paging.js",
+		"/C/repos/SimpleClient/app/partials/form-creation.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\repos\\SimpleClient\\app\\js,C:\\repos\\SimpleClient\\app\\partials",
+			"C:\\repos\\SimpleClient\\app\\js",
+			"C:\\repos\\SimpleClient\\app\\js,-*bundle.js",
+			"C:\\repos\\SimpleClient\\app\\partials,C:\\repos\\SimpleClient\\app\\js,-*bundle.js",
+			"C:\\repos\\SimpleClient\\app\\partials,C:\\repos\\SimpleClient\\app\\js",
+			"C:\\repos\\SimpleClient\\app\\partials",
+			"C:\\repos\\SimpleClient\\app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"overflow",
+			"overflow-scroll",
+			"white",
+			"loading",
+			"stateChange",
+			"sidebar-right",
+			"GetCreatedBy",
+			"CreatedBy",
+			"Manager",
+			" TM",
+			"left",
+			"glyphicon ",
+			"selectionbox",
+			"\">\n",
+			"green",
+			"ul",
+			"redis",
+			"');\n",
+			"'home.jobs.list'",
+			")\n",
+			"guid",
+			"guidfilter",
+			"logo",
+			"$scope.notes",
+			"field",
+			" }}</",
+			"margin",
+			"toDate",
+			"Column",
+			"byte",
+			"ng-pattern",
+			"ng-match",
+			"regex",
+			"ng-regex",
+			"valid",
+			"getSelected",
+			"Base64",
+			"base64",
+			"base65",
+			"home.jobs.list",
+			"panel-g",
+			"requirementview",
+			"completionPercentage",
+			"CompletionPercentage",
+			"Attachment",
+			"attachment",
+			"page",
+			"Attachment",
+			"attachment",
+			"Attachment",
+			"selectedAttachments",
+			"task-panel",
+			"timeout",
+			"$filter",
+			"attachment",
+			".dropdown-menu",
+			"home.jobs.list",
+			"Cancel",
+			"start",
+			"Cancel",
+			"Cancel'",
+			"Cancel",
+			"cancel",
+			"growl",
+			"home.settings.company",
+			"select",
+			"require(",
+			"require",
+			"angular",
+			".select = function",
+			"savepanel",
+			"require",
+			"angular",
+			"angular\n",
+			"require('angular')",
+			"cookies",
+			"selectedRequirement",
+			"tabs",
+			"$scope.tabs",
+			"tab",
+			"tabs",
+			"Prefer",
+			"$",
+			"\\n",
+			"$scop",
+			"'\n",
+			"ui-view",
+			"attachment",
+			"body-section",
+			"overflow",
+			"\" ",
+			"save-panel",
+			"panel-blue",
+			"panel-green",
+			"container",
+			"select",
+			"&&",
+			"status",
+			".content",
+			"skin-blue",
+			".sidebarRight",
+			"company.Person",
+			"userForm",
+			"peron",
+			"Description",
+			"_.map",
+			".avatar",
+			"blurred-bg1",
+			"blurred",
+			"image-container",
+			"SimpleClient",
+			"location-map",
+			"assigned",
+			"client-conf",
+			"TaskStatusService",
+			"timeout",
+			"$timeout",
+			"person",
+			"span",
+			"money",
+			"selectedTask",
+			"changeTask",
+			"autofocus",
+			"focus",
+			"auto-focus",
+			"scroll",
+			"scr",
+			"scroll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&#8482;",
+			"$scope.field",
+			"Form",
+			"form",
+			"Form",
+			"form",
+			"Form",
+			"selectedForms",
+			"selected",
+			"\",\\n",
+			"\\n\",",
+			"\",",
+			"person",
+			"personForm",
+			"Name",
+			"location",
+			"task",
+			"Active",
+			"task",
+			"Description",
+			"Id",
+			"div",
+			"<small>",
+			"col-md-8",
+			"col-md-4",
+			"pricing",
+			"$scope.task.Attachments",
+			"field.VisibleInd",
+			"ng-show",
+			"!editable",
+			"sandbox",
+			"module",
+			"dist/lib/",
+			"',",
+			"'",
+			"",
+			"position: relative;",
+			"",
+			"file",
+			"$scope.files",
+			"requirement",
+			"requirements",
+			"col-md-9",
+			"col-md-8",
+			"col-md",
+			"2",
+			"1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/js/Run.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								617,
+								617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/js/controllers/LoginCtrl.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/js/Routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								842,
+								842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/partials/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/partials/companies.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/js/controllers/CompaniesCtrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/js/controllers/LandingCtrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/js/controllers/HomeCtrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/js/controllers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/partials/landing.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1787,
+								1787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 314.0
+	},
+	"pinned_build_system": "",
+	"project": "field-forward-admin.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

@@ -1,0 +1,68 @@
+<div class="col-md-12">
+  <div class="form-group row">
+    <h2>Players </h2>
+    <table  class="table table-condensed" >
+        <tr>
+          <td ng-show="count == 1"><i class="menu-icon fa fa-2x fa-file"></td>
+          <td>Person 1 </td>
+          <td>Health V/Health Max </td>
+          <td> Class </td>
+          <td>AC 1 </td>
+        </tr>
+        <tr> 
+          <td>Recent Rolls</td>
+          <td>Roll Name1 :Roll value1</td>
+          <td>Roll Name2:Roll value2</td>
+          <td>Roll Name3:Roll value3</td>
+      <tr>
+        <td ng-show="count == 2"> <i class="menu-icon fa fa-2x fa-file"></td>
+        <td>Person 2 </td>
+        <td>Health V/HealthMax </td>
+        <td> Class </td>
+        <td>AC 2 </td>
+      </tr>
+      <tr> 
+          <td>Recent Rolls</td>
+          <td>Roll Name1:Roll value1</td>
+          <td>Roll Name2:Roll value2</td>
+          <td>Roll Name3:Roll value3</td>
+      <tr>
+      <tr>
+        <td ng-show="count == 3"> <i class="menu-icon fa fa-2x fa-file"></td>
+        <td>Person 3 </td>
+        <td>Health V /Health Max</td>
+        <td> Class </td>
+        <td>AC 3 </td>
+      </tr>
+      <tr> 
+          <td>Recent Rolls</td>
+          <td>Roll Name1 :Roll value1</td>
+          <td>Roll Name2:Roll value2</td>
+          <td>Roll Name3:Roll value3</td>
+      <tr>
+      <tr>
+        <td ng-show="count == 4"> <i class="menu-icon fa fa-2x fa-file"></td>
+        <td>Person 4 </td>
+        <td>Health V /Health Max</td>
+        <td> Class </td>
+        <td>AC 4</td>
+      </tr>
+    <table>
+      <button ng-click="counting()" ng-init="count=0">Next Step</button>
+        {{count}}
+  </div>
+
+  <h2>Rolls</h2>
+  <button ng-click="roll20()" ng-init="roll201=0">Roll20</button>
+  {{roll201}},{{roll202}},{{roll203}}
+    <button ng-click="roll12()" ng-init="roll181=0">Roll12</button>
+  {{roll121}},{{roll122}},{{roll123}}
+    <button ng-click="roll10()" ng-init="roll121=0">Roll10</button>
+  {{roll101}},{{roll102}},{{roll103}}
+    <button ng-click="roll8()" ng-init="roll101=0">Roll8</button>
+  {{roll81}},{{roll82}},{{roll83}}
+    <button ng-click="roll6()" ng-init="roll81=0">Roll6</button>
+  {{roll61}},{{roll62}},{{roll63}}
+    <button ng-click="roll4()" ng-init="roll41=0">Roll4</button>
+  {{roll41}},{{roll42}},{{roll43}}
+</div>
