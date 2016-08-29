@@ -1,7 +1,7 @@
 <div class="sidebar-wrapper">
   <div class="sidebar-nav-wrapper mg-top-10">
-    <div class="user-container dropdown" ng-class="{ open: showProfileDropdown }">
-      <a class="dropdown-toggle" ng-click="showProfileDropdown = !showProfileDropdown" click-anywhere-but-here="showProfileDropdown = false">
+  <!--  <div class="user-container dropdown" ng-class="{ open: showProfileDropdown }">
+     <a class="dropdown-toggle" ng-click="showProfileDropdown = !showProfileDropdown" click-anywhere-but-here="showProfileDropdown = false">
         <div class="pull-left image">
           <img ng-show="!CurrentUser.AvatarUrl" src="images/generic-user.jpg" class="img-thumbnail avatar bg-light-green" alt="user profile image">
           <img ng-show="CurrentUser.AvatarUrl" ng-src="{{ CurrentUser.AvatarUrl }}" class="img-thumbnail avatar bg-light-green" alt="user profile image">
@@ -26,6 +26,7 @@
         <button ui-sref="home.jobs.list({ search: globalSearch })"><i class="fa fa-search"></i></button>
       </form>
     </div>
+  -->
     <ul class="sidebar-nav">
       <li class="border-left-light-green">
         <a ui-sref="home.Main" title="Main">
@@ -54,6 +55,5 @@
         </a>
       </li>
     </ul>
-
   </div>
 </div>
